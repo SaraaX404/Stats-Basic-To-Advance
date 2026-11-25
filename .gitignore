@@ -1,0 +1,14 @@
+# Also protect local lecture material when this folder is the repository root.
+*.[pP][dD][fF]
+**/Notes_*.ipynb
+_source_pages/
+**/_archive/
+_tools/
+LOCAL_REFERENCE_INDEX.md
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example

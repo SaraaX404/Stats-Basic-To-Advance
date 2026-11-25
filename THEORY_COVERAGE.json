@@ -1,0 +1,635 @@
+[
+  {
+    "subject": "STA 501 1.0 Descriptive Statistics",
+    "notebook": "01_STA_501_1.0_Descriptive_Statistics/Lab_01_Introduction_to_Descriptive_Statistics.ipynb",
+    "source_topics": "STA 501 Lectures 1 and 3",
+    "subtopics": [
+      "Statistics and its limits",
+      "Population, unit, sample and frame",
+      "Branches of statistical reasoning",
+      "Observation and intervention",
+      "Primary and secondary data",
+      "Variables and scales",
+      "Collection, entry and cleaning",
+      "Ethical interpretation and statistical misuse",
+      "Reasoning check"
+    ],
+    "theory_words": 489
+  },
+  {
+    "subject": "STA 501 1.0 Descriptive Statistics",
+    "notebook": "01_STA_501_1.0_Descriptive_Statistics/Lab_02_Frequency_Distributions_and_Summary_Measures.ipynb",
+    "source_topics": "STA 501 Lecture 2",
+    "subtopics": [
+      "Describe before calculating",
+      "Centre and appropriate scales",
+      "Dispersion and denominators",
+      "Computational identity",
+      "Quartiles, boxplots and outlier fences",
+      "Standardization and relative dispersion",
+      "Asymmetry measures",
+      "Choosing a summary"
+    ],
+    "theory_words": 395
+  },
+  {
+    "subject": "STA 501 1.0 Descriptive Statistics",
+    "notebook": "01_STA_501_1.0_Descriptive_Statistics/Lab_03_Two_way_frequency_tables.ipynb",
+    "source_topics": "STA 501 Lectures 1–3",
+    "subtopics": [
+      "Two categorical variables",
+      "Two numerical variables",
+      "Transformations and interpretation",
+      "Ordinal and mixed-scale relationships",
+      "Association and causation",
+      "Cross-sectional and time-series data",
+      "Research proposal and final report",
+      "Common misleading comparisons"
+    ],
+    "theory_words": 371
+  },
+  {
+    "subject": "STA 501 1.0 Descriptive Statistics",
+    "notebook": "01_STA_501_1.0_Descriptive_Statistics/Lab_04_Grouped_Frequency_Distributions.ipynb",
+    "source_topics": "STA 501 Lecture 2",
+    "subtopics": [
+      "Why grouping loses information",
+      "Limits, boundaries and width",
+      "Frequency density and unequal widths",
+      "Grouped mean and variance",
+      "Median and other quantiles",
+      "Grouped mode",
+      "Validation and interpretation"
+    ],
+    "theory_words": 332
+  },
+  {
+    "subject": "STA 501 1.0 Descriptive Statistics",
+    "notebook": "01_STA_501_1.0_Descriptive_Statistics/Lab_05_Skewness_Kurtosis_Spearman_Correlation_and_Lorenz_Curve.ipynb",
+    "source_topics": "STA 501 Lectures 3 and 4",
+    "subtopics": [
+      "Central moments and shape",
+      "Kurtosis and sample conventions",
+      "Rank correlation and ties",
+      "Quantiles and Q–Q plots",
+      "Time-series Z charts",
+      "Lorenz curve construction",
+      "Gini coefficient",
+      "Communication"
+    ],
+    "theory_words": 429
+  },
+  {
+    "subject": "Probability and Distribution Theory I",
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_01_Events_and_Probability_Rules.ipynb",
+    "source_topics": "Probability and Distribution Theory I · Batch 1",
+    "subtopics": [
+      "Experiment, outcome and sample space",
+      "Set operations",
+      "Probability axioms and consequences",
+      "Exclusive, exhaustive and independent",
+      "Counting and checking"
+    ],
+    "theory_words": 238
+  },
+  {
+    "subject": "Probability and Distribution Theory I",
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_02_Classical_and_Empirical_Probability.ipynb",
+    "source_topics": "Probability and Distribution Theory I · Batch 2",
+    "subtopics": [
+      "Classical probability",
+      "Counting sequences",
+      "Empirical probability",
+      "Precision and simulation",
+      "Geometric probability",
+      "Complements and interpretation"
+    ],
+    "theory_words": 298
+  },
+  {
+    "subject": "Probability and Distribution Theory I",
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_03_Conditional_Probability_and_Multiplication_Rule.ipynb",
+    "source_topics": "Probability and Distribution Theory I · Batch 3",
+    "subtopics": [
+      "Conditioning changes the reference set",
+      "Frequency-table interpretation",
+      "Multiplication rule",
+      "Independence check",
+      "Zero probabilities and continuous data",
+      "Common mistakes"
+    ],
+    "theory_words": 250
+  },
+  {
+    "subject": "Probability and Distribution Theory I",
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_04_Tree_Diagrams_and_Sequential_Events.ipynb",
+    "source_topics": "Probability and Distribution Theory I · Batch 4",
+    "subtopics": [
+      "Tree structure",
+      "Multiplication and addition",
+      "With and without replacement",
+      "Marginal and conditional questions",
+      "Checking a tree",
+      "Repeated trials"
+    ],
+    "theory_words": 268
+  },
+  {
+    "subject": "Probability and Distribution Theory I",
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_05_Total_Probability_and_Bayes_Theorem.ipynb",
+    "source_topics": "Probability and Distribution Theory I · Batch 5",
+    "subtopics": [
+      "Partitions",
+      "Total probability",
+      "Bayesian updating",
+      "Base rates and diagnostic examples",
+      "Complement evidence and repeated updates",
+      "Validation and interpretation"
+    ],
+    "theory_words": 246
+  },
+  {
+    "subject": "Probability and Distribution Theory I",
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_06_Random_Variables.ipynb",
+    "source_topics": "Probability and Distribution Theory I · Batch 6",
+    "subtopics": [
+      "Mapping from outcomes",
+      "Indicators and category codes",
+      "Support and types",
+      "Distribution functions",
+      "Transformations and vectors",
+      "Expected values"
+    ],
+    "theory_words": 271
+  },
+  {
+    "subject": "Probability and Distribution Theory I",
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_07_Probability_Mass_Functions.ipynb",
+    "source_topics": "Probability and Distribution Theory I · Batch 7",
+    "subtopics": [
+      "Valid PMFs",
+      "Events and CDFs",
+      "Moments and variance",
+      "Function expectations",
+      "Binomial example",
+      "Calculation checks"
+    ],
+    "theory_words": 229
+  },
+  {
+    "subject": "Probability and Distribution Theory I",
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_08_Probability_Density_Functions.ipynb",
+    "source_topics": "Probability and Distribution Theory I · Batch 8",
+    "subtopics": [
+      "Density and area",
+      "Normalization and interval probabilities",
+      "CDF and differentiation",
+      "Quantiles and moments",
+      "Transformations",
+      "Numerical integration and simulation"
+    ],
+    "theory_words": 241
+  },
+  {
+    "subject": "Probability and Distribution Theory I",
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_09_Formula_Reference_and_Mixed_Review.ipynb",
+    "source_topics": "Probability and Distribution Theory I · Formula reference and mixed revision",
+    "subtopics": [
+      "Translate the question first",
+      "A problem-solving map",
+      "Joint, marginal and conditional quantities",
+      "Independence must be stated",
+      "Algebraic and numerical checks",
+      "Simulation as a companion",
+      "Exam-style explanation"
+    ],
+    "theory_words": 308
+  },
+  {
+    "subject": "STA 503 1.0 Sampling Techniques",
+    "notebook": "03_STA_503_1.0_Sampling_Techniques/Lab_01_Introduction_Sample_Surveys_and_Questionnaire_Design.ipynb",
+    "source_topics": "STA 503 Lectures I–III",
+    "subtopics": [
+      "The inferential purpose of a survey",
+      "Census and sample",
+      "Observational and experimental studies",
+      "Planning steps",
+      "Total survey error",
+      "Questionnaire structure",
+      "Question types and measurement",
+      "Pilot, fieldwork and processing",
+      "Reporting"
+    ],
+    "theory_words": 444
+  },
+  {
+    "subject": "STA 503 1.0 Sampling Techniques",
+    "notebook": "03_STA_503_1.0_Sampling_Techniques/Lab_02_Probability_nonprobability.ipynb",
+    "source_topics": "STA 503 Lecture IV and Lecture Note V",
+    "subtopics": [
+      "Probability versus nonprobability selection",
+      "Simple random sampling",
+      "Lottery, random-number tables and software",
+      "Remainder methods",
+      "Stratified, systematic and cluster designs",
+      "Inclusion and weights",
+      "Design choice"
+    ],
+    "theory_words": 376
+  },
+  {
+    "subject": "STA 503 1.0 Sampling Techniques",
+    "notebook": "03_STA_503_1.0_Sampling_Techniques/Lab_03_Estimation_Sample_Size_and_Advanced_Sampling_Methods.ipynb",
+    "source_topics": "STA 503 Lecture Notes V and VI",
+    "subtopics": [
+      "Finite-population notation",
+      "Unbiasedness and precision",
+      "Population proportions",
+      "Error bounds",
+      "Sample size for a mean",
+      "Sample size for a proportion and total",
+      "Practical planning"
+    ],
+    "theory_words": 358
+  },
+  {
+    "subject": "STA 503 1.0 Sampling Techniques",
+    "notebook": "03_STA_503_1.0_Sampling_Techniques/Lab_04_Stratified_Random_Sampling_and_Cluster_Sampling.ipynb",
+    "source_topics": "STA 503 Lecture Notes VII and VIII",
+    "subtopics": [
+      "Stratified design",
+      "Weighted estimation",
+      "Allocation rules",
+      "Why stratification can help",
+      "Cluster design and cost",
+      "One-stage equal-probability cluster totals",
+      "Two-stage sampling and interpretation"
+    ],
+    "theory_words": 412
+  },
+  {
+    "subject": "STA 506 2.0 Linear Regression Analysis",
+    "notebook": "04_STA_506_2.0_Linear_Regression_Analysis/Lab_01_Regression_Analysis_and_the_Simple_Linear_Model.ipynb",
+    "source_topics": "STA 506 Linear Regression Analysis slides and Tutorial",
+    "subtopics": [
+      "Purpose and workflow",
+      "Why plots precede summaries",
+      "Model and assumptions",
+      "Deriving the fitted coefficients",
+      "Variances and parameter intervals",
+      "Regression ANOVA and R²",
+      "Mean response and prediction"
+    ],
+    "theory_words": 407
+  },
+  {
+    "subject": "STA 506 2.0 Linear Regression Analysis",
+    "notebook": "04_STA_506_2.0_Linear_Regression_Analysis/Lab_02_Multiple_Linear_Regression_and_Dummy_Variables.ipynb",
+    "source_topics": "Multiple Regression Example and Dummy Variables handout",
+    "subtopics": [
+      "Conditional effects",
+      "Design matrix and estimation",
+      "Variance and tests",
+      "Indicator variables",
+      "Interactions and separate equations",
+      "Fit, prediction and model selection",
+      "Reporting"
+    ],
+    "theory_words": 345
+  },
+  {
+    "subject": "STA 506 2.0 Linear Regression Analysis",
+    "notebook": "04_STA_506_2.0_Linear_Regression_Analysis/Lab_03_Model_Adequacy_Lack_of_Fit_and_Practice.ipynb",
+    "source_topics": "STA 506 slides, LOF handout and Tutorial",
+    "subtopics": [
+      "What validation asks",
+      "Residual diagnostics",
+      "Outliers, leverage and influence",
+      "Replication and pure error",
+      "Lack-of-fit decomposition",
+      "Remedies and validation data",
+      "Prediction and interpretation"
+    ],
+    "theory_words": 374
+  },
+  {
+    "subject": "STA 532 2.0 Spreadsheet Modelling",
+    "notebook": "05_STA_532_2.0_Spreadsheet_Modelling/Lab_01_Spreadsheet_Functions_and_Data_Preparation.ipynb",
+    "source_topics": "Spreadsheet Modelling outline and Lectures 2–3",
+    "subtopics": [
+      "What a spreadsheet model represents",
+      "Dataset structure",
+      "Types and missing values",
+      "References and formula propagation",
+      "Logical rules and boundary cases",
+      "Validation, cleaning and traceability",
+      "Filtering and sorting",
+      "Python correspondence and audit"
+    ],
+    "theory_words": 434
+  },
+  {
+    "subject": "STA 532 2.0 Spreadsheet Modelling",
+    "notebook": "05_STA_532_2.0_Spreadsheet_Modelling/Lab_02_Data_Visualization_and_Summary_Measures.ipynb",
+    "source_topics": "Spreadsheet Lectures 4–7 and dashboard materials",
+    "subtopics": [
+      "Choose the variable scale",
+      "Numerical summaries",
+      "Visual choices",
+      "Outlier detection",
+      "Relationships between variables",
+      "Pivot tables",
+      "Weighted aggregates",
+      "Dashboard construction",
+      "Straight-line modelling in spreadsheets"
+    ],
+    "theory_words": 451
+  },
+  {
+    "subject": "STA 532 2.0 Spreadsheet Modelling",
+    "notebook": "05_STA_532_2.0_Spreadsheet_Modelling/Lab_03_Probability_Models_Confidence_Intervals_and_Hypothesis_Testing.ipynb",
+    "source_topics": "Spreadsheet Lectures 8–11, distribution and confidence-interval materials",
+    "subtopics": [
+      "Probability rules and the modelling step",
+      "Binomial model",
+      "Poisson model",
+      "Normal model and standard-normal tables",
+      "Sampling distributions and t",
+      "Confidence intervals for means",
+      "Proportions and sample-size planning",
+      "Hypothesis-test workflow",
+      "Mean and proportion statistics",
+      "Error types and interpretation"
+    ],
+    "theory_words": 509
+  },
+  {
+    "subject": "STA 532 2.0 Spreadsheet Modelling",
+    "notebook": "05_STA_532_2.0_Spreadsheet_Modelling/Lab_04_Logical_Functions_Data_Preparation_and_Pivot_Summaries.ipynb",
+    "source_topics": "Spreadsheet Lectures 2–5 and dashboard examples",
+    "subtopics": [
+      "Write the rule in words first",
+      "IF and nested decisions",
+      "AND, OR and negation",
+      "Type and missing-value pitfalls",
+      "Derived quantities",
+      "Conditional and grouped summaries",
+      "Auditing the chain",
+      "Reproducibility"
+    ],
+    "theory_words": 374
+  },
+  {
+    "subject": "STA 504 2.0 Statistical Inference",
+    "notebook": "06_STA_504_2.0_Statistical_Inference/Lab_01_Introduction_to_Statistical_Inference.ipynb",
+    "source_topics": "STA 504 Lectures 1–2",
+    "subtopics": [
+      "Description and generalization",
+      "Parameters, statistics, estimators and estimates",
+      "Parametric and nonparametric approaches",
+      "Point and interval estimation",
+      "Sampling distributions and standard errors",
+      "Estimator properties",
+      "Estimation methods",
+      "Reporting and limitations"
+    ],
+    "theory_words": 395
+  },
+  {
+    "subject": "STA 504 2.0 Statistical Inference",
+    "notebook": "06_STA_504_2.0_Statistical_Inference/Lab_02_Estimation_and_Confidence_Intervals.ipynb",
+    "source_topics": "STA 504 Lectures 2–4 and 6",
+    "subtopics": [
+      "Normal-sample reference distributions",
+      "Pivotal quantities and inversion",
+      "One-population mean",
+      "Difference of independent means",
+      "Paired means",
+      "Proportions",
+      "Variance and standard deviation",
+      "Meaning and width"
+    ],
+    "theory_words": 365
+  },
+  {
+    "subject": "STA 504 2.0 Statistical Inference",
+    "notebook": "06_STA_504_2.0_Statistical_Inference/Lab_03_Assumptions.ipynb",
+    "source_topics": "STA 504 Lectures 3–4 and 6–8",
+    "subtopics": [
+      "State a population claim",
+      "The testing sequence",
+      "One-sample mean and proportion",
+      "Two means and paired data",
+      "Critical regions and p-values",
+      "Type I error, Type II error and power",
+      "Duality with intervals",
+      "Diagnostics and robust choices",
+      "Conclusions and practical importance"
+    ],
+    "theory_words": 449
+  },
+  {
+    "subject": "STA 504 2.0 Statistical Inference",
+    "notebook": "06_STA_504_2.0_Statistical_Inference/Lab_04_Maximum_Likelihood_Method_of_Moments_and_Estimator_Properties.ipynb",
+    "source_topics": "STA 504 Lectures 1 and 5",
+    "subtopics": [
+      "Likelihood is a function of the parameter",
+      "Maximum-likelihood workflow",
+      "Poisson and exponential examples",
+      "Normal likelihood",
+      "Method of moments",
+      "Least squares",
+      "Bias, variance and MSE",
+      "Simulation checks"
+    ],
+    "theory_words": 399
+  },
+  {
+    "subject": "STA 504 2.0 Statistical Inference",
+    "notebook": "06_STA_504_2.0_Statistical_Inference/Lab_05_Pivotal_Quantities_and_Confidence_Intervals_for_Variance.ipynb",
+    "source_topics": "STA 504 Lectures 2, 4 and 6",
+    "subtopics": [
+      "Why a pivot helps",
+      "The normal-sample variance pivot",
+      "Inverting an equal-tail statement",
+      "Standard-deviation intervals and asymmetry",
+      "One-sided bounds and tests",
+      "Comparing normal variances",
+      "Interpretation and sensitivity"
+    ],
+    "theory_words": 318
+  },
+  {
+    "subject": "STA 507 1.0 Nonparametric Statistics",
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_01_Introduction_and_One_Sample_Tests.ipynb",
+    "source_topics": "Handout 1",
+    "subtopics": [
+      "Parametric and nonparametric inference",
+      "When these methods are useful",
+      "Benefits and limitations",
+      "Binary trials and the binomial model",
+      "Hypotheses and tails",
+      "Exact decisions and normal approximation",
+      "Estimation and reporting"
+    ],
+    "theory_words": 402
+  },
+  {
+    "subject": "STA 507 1.0 Nonparametric Statistics",
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_02_Wilcoxon_Signed_Rank_Test_and_Sign_Test.ipynb",
+    "source_topics": "Handouts 1 and 2",
+    "subtopics": [
+      "1. What problem do these tests solve?",
+      "2. What does signed-rank test?",
+      "3. Assumptions and preliminary checks",
+      "4. Hypotheses and the direction of evidence",
+      "5. Build the ranking table",
+      "6. Statistic definitions and critical-value tables",
+      "7. Exact inference and tied ranks",
+      "8. Large-sample normal approximation",
+      "9. Zero conventions and numerical precision",
+      "10. Why software results can differ",
+      "11. One-sample binomial sign test",
+      "12. Choosing between related tests",
+      "13. Magnitude, conclusion and reporting",
+      "14. Check your understanding"
+    ],
+    "theory_words": 1425
+  },
+  {
+    "subject": "STA 507 1.0 Nonparametric Statistics",
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_03_One_Sample_Kolmogorov_Smirnov_Test.ipynb",
+    "source_topics": "Handouts 3 and 5",
+    "subtopics": [
+      "The empirical distribution",
+      "One-sample hypotheses and requirements",
+      "Constructing the statistic",
+      "Decisions and estimated parameters",
+      "Ordinal, rounded and grouped observations",
+      "Two independent samples",
+      "Direction, meaning and follow-up"
+    ],
+    "theory_words": 385
+  },
+  {
+    "subject": "STA 507 1.0 Nonparametric Statistics",
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_04_Chi_Square_Goodness_of_Fit_Independence_and_Homogeneity.ipynb",
+    "source_topics": "Handouts 3 and 4",
+    "subtopics": [
+      "Three questions with similar arithmetic",
+      "Goodness of fit",
+      "Independence and expected counts",
+      "Assumptions and sparse tables",
+      "Decisions, residuals and effect size",
+      "Continuity correction",
+      "Fisher's exact test"
+    ],
+    "theory_words": 394
+  },
+  {
+    "subject": "STA 507 1.0 Nonparametric Statistics",
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_05_Runs_Test_for_Randomness.ipynb",
+    "source_topics": "Handout 4",
+    "subtopics": [
+      "What a run is",
+      "Defining the labels",
+      "Conditional null and statistic",
+      "Exact and approximate inference",
+      "Two-sample runs test",
+      "Ties and conclusions"
+    ],
+    "theory_words": 353
+  },
+  {
+    "subject": "STA 507 1.0 Nonparametric Statistics",
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_06_Mann_Whitney_U_Test_for_Two_Independent_Samples.ipynb",
+    "source_topics": "Handout 4",
+    "subtopics": [
+      "Design and question",
+      "Pooling and ranking",
+      "Hypotheses and tails",
+      "Exact and large-sample references",
+      "Estimation and interpretation",
+      "Reporting and cautions"
+    ],
+    "theory_words": 328
+  },
+  {
+    "subject": "STA 507 1.0 Nonparametric Statistics",
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_07_Mood_s_median_test_workshop.ipynb",
+    "source_topics": "Handout 5",
+    "subtopics": [
+      "Target and construction",
+      "Pooled median and ties",
+      "Hypotheses and calculation",
+      "Conditions and small tables",
+      "Relation to other tests",
+      "Effect description and conclusion"
+    ],
+    "theory_words": 361
+  },
+  {
+    "subject": "STA 509 2.0 Introduction to Design and Analysis of Experiments",
+    "notebook": "08_STA_509_2.0_Introduction_to_Design_and_Analysis_of_Experiments/Lab_01_Review_Two_Sample_t_Test_and_ANOVA.ipynb",
+    "source_topics": "STA 509 Lecture 02",
+    "subtopics": [
+      "Match the design to the question",
+      "One-sample t",
+      "Independent groups: pooled and Welch",
+      "Paired comparison",
+      "Critical values, p-values and intervals",
+      "Why several t tests are insufficient",
+      "ANOVA as a variance ratio",
+      "Reporting"
+    ],
+    "theory_words": 365
+  },
+  {
+    "subject": "STA 509 2.0 Introduction to Design and Analysis of Experiments",
+    "notebook": "08_STA_509_2.0_Introduction_to_Design_and_Analysis_of_Experiments/Lab_02_Experiment_vs_observation.ipynb",
+    "source_topics": "STA 509 Lecture 03 and course outline",
+    "subtopics": [
+      "Experimental vocabulary",
+      "Randomization, replication and local control",
+      "CRD allocation",
+      "Model, constraints and hypotheses",
+      "Sums of squares and computational formulas",
+      "Meaning of the result",
+      "Strengths and limitations",
+      "Extension in the outline: two-factor studies"
+    ],
+    "theory_words": 456
+  },
+  {
+    "subject": "STA 509 2.0 Introduction to Design and Analysis of Experiments",
+    "notebook": "08_STA_509_2.0_Introduction_to_Design_and_Analysis_of_Experiments/Lab_03_Treatment_means_and_contrasts.ipynb",
+    "source_topics": "STA 509 Lectures 03–04",
+    "subtopics": [
+      "What an omnibus test leaves unanswered",
+      "Contrasts and uncertainty",
+      "Pairwise intervals and familywise error",
+      "Fisher LSD and Tukey methods",
+      "Reading comparison output",
+      "Residual adequacy",
+      "Remedies and scope"
+    ],
+    "theory_words": 386
+  },
+  {
+    "subject": "STA 509 2.0 Introduction to Design and Analysis of Experiments",
+    "notebook": "08_STA_509_2.0_Introduction_to_Design_and_Analysis_of_Experiments/Lab_04_Nuisance_factors.ipynb",
+    "source_topics": "STA 509 Lecture 04, Rice Variety example and course outline",
+    "subtopics": [
+      "Nuisance variation and blocking",
+      "Complete-block arrangement",
+      "Additive fixed-effects model",
+      "ANOVA formulas",
+      "Fitted values and diagnostics",
+      "Comparisons, missing values and limitations",
+      "Incomplete blocks",
+      "Latin squares from the course outline",
+      "Choosing and interpreting the design"
+    ],
+    "theory_words": 506
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "notebook": "01_STA_501_1.0_Descriptive_Statistics/Lab_01_Introduction_to_Descriptive_Statistics.ipynb",
+    "worked_example": "From observations to a frequency table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "01_STA_501_1.0_Descriptive_Statistics/Lab_02_Frequency_Distributions_and_Summary_Measures.ipynb",
+    "worked_example": "Mean and sample variance: deviations table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "01_STA_501_1.0_Descriptive_Statistics/Lab_03_Two_way_frequency_tables.ipynb",
+    "worked_example": "Two-way table: use the correct denominator",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "01_STA_501_1.0_Descriptive_Statistics/Lab_04_Grouped_Frequency_Distributions.ipynb",
+    "worked_example": "Grouped data: midpoint and cumulative-frequency table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "01_STA_501_1.0_Descriptive_Statistics/Lab_05_Skewness_Kurtosis_Spearman_Correlation_and_Lorenz_Curve.ipynb",
+    "worked_example": "Moments, ranks and Lorenz shares: reveal each contribution",
+    "tables": 3,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_01_Events_and_Probability_Rules.ipynb",
+    "worked_example": "Events and the addition rule: outcome table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_02_Classical_and_Empirical_Probability.ipynb",
+    "worked_example": "Classical and empirical probability: convergence table",
+    "tables": 1,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_03_Conditional_Probability_and_Multiplication_Rule.ipynb",
+    "worked_example": "Conditional probability: count table and changed sample space",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_04_Tree_Diagrams_and_Sequential_Events.ipynb",
+    "worked_example": "Probability tree: path multiplication and leaf table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_05_Total_Probability_and_Bayes_Theorem.ipynb",
+    "worked_example": "Bayes theorem: prior-to-posterior table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_06_Random_Variables.ipynb",
+    "worked_example": "Random variables: map outcomes to values",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_07_Probability_Mass_Functions.ipynb",
+    "worked_example": "PMF: expectation and variance contribution table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_08_Probability_Density_Functions.ipynb",
+    "worked_example": "PDF: density area and cumulative probability table",
+    "tables": 1,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "02_Probability_and_Distribution_Theory_I/Lab_09_Formula_Reference_and_Mixed_Review.ipynb",
+    "worked_example": "Mixed review: select and verify a probability rule",
+    "tables": 1,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "03_STA_503_1.0_Sampling_Techniques/Lab_01_Introduction_Sample_Surveys_and_Questionnaire_Design.ipynb",
+    "worked_example": "Survey planning: trace the objective to the questionnaire",
+    "tables": 1,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "03_STA_503_1.0_Sampling_Techniques/Lab_02_Probability_nonprobability.ipynb",
+    "worked_example": "Sampling designs: show who can be selected",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "03_STA_503_1.0_Sampling_Techniques/Lab_03_Estimation_Sample_Size_and_Advanced_Sampling_Methods.ipynb",
+    "worked_example": "SRS estimation: total, finite-population correction and SE",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "03_STA_503_1.0_Sampling_Techniques/Lab_04_Stratified_Random_Sampling_and_Cluster_Sampling.ipynb",
+    "worked_example": "Stratified and cluster estimates: weighted contributions",
+    "tables": 4,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "04_STA_506_2.0_Linear_Regression_Analysis/Lab_01_Regression_Analysis_and_the_Simple_Linear_Model.ipynb",
+    "worked_example": "Simple regression: sums, fitted values and residuals",
+    "tables": 3,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "04_STA_506_2.0_Linear_Regression_Analysis/Lab_02_Multiple_Linear_Regression_and_Dummy_Variables.ipynb",
+    "worked_example": "Dummy variables and interactions: design-matrix table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "04_STA_506_2.0_Linear_Regression_Analysis/Lab_03_Model_Adequacy_Lack_of_Fit_and_Practice.ipynb",
+    "worked_example": "Lack of fit: separate pure error from model failure",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "05_STA_532_2.0_Spreadsheet_Modelling/Lab_01_Spreadsheet_Functions_and_Data_Preparation.ipynb",
+    "worked_example": "Spreadsheet preparation: audit rows and logical rules",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "05_STA_532_2.0_Spreadsheet_Modelling/Lab_02_Data_Visualization_and_Summary_Measures.ipynb",
+    "worked_example": "Pivot-style summary: sums and weighted margins",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "05_STA_532_2.0_Spreadsheet_Modelling/Lab_03_Probability_Models_Confidence_Intervals_and_Hypothesis_Testing.ipynb",
+    "worked_example": "Probability model, confidence interval and test: substitution table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "05_STA_532_2.0_Spreadsheet_Modelling/Lab_04_Logical_Functions_Data_Preparation_and_Pivot_Summaries.ipynb",
+    "worked_example": "IF, AND and pivot summaries: intermediate calculation table",
+    "tables": 1,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "06_STA_504_2.0_Statistical_Inference/Lab_01_Introduction_to_Statistical_Inference.ipynb",
+    "worked_example": "Estimator properties: expectation, bias and MSE table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "06_STA_504_2.0_Statistical_Inference/Lab_02_Estimation_and_Confidence_Intervals.ipynb",
+    "worked_example": "Confidence interval: identify the pivot and show substitutions",
+    "tables": 1,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "06_STA_504_2.0_Statistical_Inference/Lab_03_Assumptions.ipynb",
+    "worked_example": "Hypothesis-test decisions and power: decision table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "06_STA_504_2.0_Statistical_Inference/Lab_04_Maximum_Likelihood_Method_of_Moments_and_Estimator_Properties.ipynb",
+    "worked_example": "Poisson MLE and method of moments: likelihood table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "06_STA_504_2.0_Statistical_Inference/Lab_05_Pivotal_Quantities_and_Confidence_Intervals_for_Variance.ipynb",
+    "worked_example": "Variance interval: invert chi-square bounds in the correct order",
+    "tables": 1,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_01_Introduction_and_One_Sample_Tests.ipynb",
+    "worked_example": "Exact binomial test: probability and tail table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_02_Wilcoxon_Signed_Rank_Test_and_Sign_Test.ipynb",
+    "worked_example": "Wilcoxon signed-rank test: complete working table",
+    "tables": 3,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_03_One_Sample_Kolmogorov_Smirnov_Test.ipynb",
+    "worked_example": "One-sample K–S test: empirical CDF working table",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_04_Chi_Square_Goodness_of_Fit_Independence_and_Homogeneity.ipynb",
+    "worked_example": "Chi-square test: observed, expected and contribution tables",
+    "tables": 3,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_05_Runs_Test_for_Randomness.ipynb",
+    "worked_example": "Runs test: label the runs before calculating",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_06_Mann_Whitney_U_Test_for_Two_Independent_Samples.ipynb",
+    "worked_example": "Mann–Whitney U: pooled ranks and group rank sums",
+    "tables": 3,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "07_STA_507_1.0_Nonparametric_Statistics/Lab_07_Mood_s_median_test_workshop.ipynb",
+    "worked_example": "Mood median test: pooled median and 2×2 table",
+    "tables": 5,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "08_STA_509_2.0_Introduction_to_Design_and_Analysis_of_Experiments/Lab_01_Review_Two_Sample_t_Test_and_ANOVA.ipynb",
+    "worked_example": "Two-sample t test: group summaries and pooled calculation",
+    "tables": 2,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "08_STA_509_2.0_Introduction_to_Design_and_Analysis_of_Experiments/Lab_02_Experiment_vs_observation.ipynb",
+    "worked_example": "Completely randomized design: full ANOVA working table",
+    "tables": 3,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "08_STA_509_2.0_Introduction_to_Design_and_Analysis_of_Experiments/Lab_03_Treatment_means_and_contrasts.ipynb",
+    "worked_example": "Planned contrast: coefficient, estimate and SE table",
+    "tables": 3,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  },
+  {
+    "notebook": "08_STA_509_2.0_Introduction_to_Design_and_Analysis_of_Experiments/Lab_04_Nuisance_factors.ipynb",
+    "worked_example": "RCBD: data grid, treatment/block totals and ANOVA",
+    "tables": 3,
+    "new_code_executed": true,
+    "checks": "Passed embedded calculation invariants"
+  }
+]

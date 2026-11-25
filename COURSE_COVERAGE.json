@@ -1,0 +1,479 @@
+{
+  "source_documents": 59,
+  "source_pages": 862,
+  "section_labs": 41,
+  "subjects": [
+    {
+      "title": "STA 501 1.0 Descriptive Statistics",
+      "folder": "01_STA_501_1.0_Descriptive_Statistics",
+      "lectures": [
+        {
+          "source": "Pulse.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 501 Lecture 1.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 501 Lecture 2.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 501 Lecture 4.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 501 Lectute 3.pdf",
+          "local_only": true
+        }
+      ],
+      "labs": [
+        {
+          "file": "Lab_01_Introduction_to_Descriptive_Statistics.ipynb",
+          "title": "Introduction to Descriptive Statistics"
+        },
+        {
+          "file": "Lab_02_Frequency_Distributions_and_Summary_Measures.ipynb",
+          "title": "Frequency Distributions and Summary Measures"
+        },
+        {
+          "file": "Lab_03_Two_way_frequency_tables.ipynb",
+          "title": "Two-way frequency tables"
+        },
+        {
+          "file": "Lab_04_Grouped_Frequency_Distributions.ipynb",
+          "title": "Grouped Frequency Distributions"
+        },
+        {
+          "file": "Lab_05_Skewness_Kurtosis_Spearman_Correlation_and_Lorenz_Curve.ipynb",
+          "title": "Skewness Kurtosis Spearman Correlation and Lorenz Curve"
+        }
+      ]
+    },
+    {
+      "title": "Probability and Distribution Theory I",
+      "folder": "02_Probability_and_Distribution_Theory_I",
+      "lectures": [
+        {
+          "source": "Probability_and_Distribution_Theory_I.pdf",
+          "local_only": true
+        }
+      ],
+      "labs": [
+        {
+          "file": "Lab_01_Events_and_Probability_Rules.ipynb",
+          "title": "Events and Probability Rules"
+        },
+        {
+          "file": "Lab_02_Classical_and_Empirical_Probability.ipynb",
+          "title": "Classical and Empirical Probability"
+        },
+        {
+          "file": "Lab_03_Conditional_Probability_and_Multiplication_Rule.ipynb",
+          "title": "Conditional Probability and Multiplication Rule"
+        },
+        {
+          "file": "Lab_04_Tree_Diagrams_and_Sequential_Events.ipynb",
+          "title": "Tree Diagrams and Sequential Events"
+        },
+        {
+          "file": "Lab_05_Total_Probability_and_Bayes_Theorem.ipynb",
+          "title": "Total Probability and Bayes Theorem"
+        },
+        {
+          "file": "Lab_06_Random_Variables.ipynb",
+          "title": "Random Variables"
+        },
+        {
+          "file": "Lab_07_Probability_Mass_Functions.ipynb",
+          "title": "Probability Mass Functions"
+        },
+        {
+          "file": "Lab_08_Probability_Density_Functions.ipynb",
+          "title": "Probability Density Functions"
+        },
+        {
+          "file": "Lab_09_Formula_Reference_and_Mixed_Review.ipynb",
+          "title": "Formula Reference and Mixed Review"
+        }
+      ]
+    },
+    {
+      "title": "STA 503 1.0 Sampling Techniques",
+      "folder": "03_STA_503_1.0_Sampling_Techniques",
+      "lectures": [
+        {
+          "source": "STA 503 - 2026 - Lecture note 5 -slides.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 503 1.0 - Lecture I.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 503 1.0 - Lecture III -2026.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 503 1.0 - Lecture IV -2026.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 503 1.0 - Lecture Note VI -2026.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 503 1.0 - Lecture Note VII - 2026.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 503 1.0 - Lecture Note VIII - 2026.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 503 10 - Lecture II.pdf",
+          "local_only": true
+        }
+      ],
+      "labs": [
+        {
+          "file": "Lab_01_Introduction_Sample_Surveys_and_Questionnaire_Design.ipynb",
+          "title": "Introduction, Sample Surveys and Questionnaire Design"
+        },
+        {
+          "file": "Lab_02_Probability_nonprobability.ipynb",
+          "title": "Probability/nonprobability"
+        },
+        {
+          "file": "Lab_03_Estimation_Sample_Size_and_Advanced_Sampling_Methods.ipynb",
+          "title": "Estimation, Sample Size and Advanced Sampling Methods"
+        },
+        {
+          "file": "Lab_04_Stratified_Random_Sampling_and_Cluster_Sampling.ipynb",
+          "title": "Stratified Random Sampling and Cluster Sampling"
+        }
+      ]
+    },
+    {
+      "title": "STA 506 2.0 Linear Regression Analysis",
+      "folder": "04_STA_506_2.0_Linear_Regression_Analysis",
+      "lectures": [
+        {
+          "source": "Dummy Variables.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Example-Multiple Linear Regression.pdf",
+          "local_only": true
+        },
+        {
+          "source": "LOF.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 506 2.0 Linear Regression Analysis Lecture Slides set 2.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Tutorial.pdf",
+          "local_only": true
+        }
+      ],
+      "labs": [
+        {
+          "file": "Lab_01_Regression_Analysis_and_the_Simple_Linear_Model.ipynb",
+          "title": "Regression Analysis and the Simple Linear Model"
+        },
+        {
+          "file": "Lab_02_Multiple_Linear_Regression_and_Dummy_Variables.ipynb",
+          "title": "Multiple Linear Regression and Dummy Variables"
+        },
+        {
+          "file": "Lab_03_Model_Adequacy_Lack_of_Fit_and_Practice.ipynb",
+          "title": "Model Adequacy, Lack of Fit and Practice"
+        }
+      ]
+    },
+    {
+      "title": "STA 532 2.0 Spreadsheet Modelling",
+      "folder": "05_STA_532_2.0_Spreadsheet_Modelling",
+      "lectures": [
+        {
+          "source": "Binomial.pdf",
+          "local_only": true
+        },
+        {
+          "source": "CI_sampleSize_cal_ for Proportion.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Confidence Interval for Mean.pdf",
+          "local_only": true
+        },
+        {
+          "source": "DashBoard_data.pdf",
+          "local_only": true
+        },
+        {
+          "source": "DashBoard_data_WorkedinCLass.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Exercise_CI_Inclass.pdf",
+          "local_only": true
+        },
+        {
+          "source": "HYPOTHESIS TESTING_LECTURE11_forStudents.pdf",
+          "local_only": true
+        },
+        {
+          "source": "HypothesisTesting_Template.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 10_Revised_Notes_NormalDistribution.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 2_Logical Functions.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 3_data.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 5_Data Visualization.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 8_Probability Theory.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture6_Outlier_detection.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture7_CorrelationMeasure_Part1.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture9_Descrete_models.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecure_4_Data Analysis_toolpack_Summary Measures.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Poisson.pdf",
+          "local_only": true
+        },
+        {
+          "source": "SpreadsheetModelling_Course_outline.pdf",
+          "local_only": true
+        },
+        {
+          "source": "standard-normal-table.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Updated_Lecture 10_Notes_Part2_t_dist_ConfidenceIntervals.pdf",
+          "local_only": true
+        }
+      ],
+      "labs": [
+        {
+          "file": "Lab_01_Spreadsheet_Functions_and_Data_Preparation.ipynb",
+          "title": "Spreadsheet Functions and Data Preparation"
+        },
+        {
+          "file": "Lab_02_Data_Visualization_and_Summary_Measures.ipynb",
+          "title": "Data Visualization and Summary Measures"
+        },
+        {
+          "file": "Lab_03_Probability_Models_Confidence_Intervals_and_Hypothesis_Testing.ipynb",
+          "title": "Probability Models, Confidence Intervals and Hypothesis Testing"
+        },
+        {
+          "file": "Lab_04_Logical_Functions_Data_Preparation_and_Pivot_Summaries.ipynb",
+          "title": "Logical Functions Data Preparation and Pivot Summaries"
+        }
+      ]
+    },
+    {
+      "title": "STA 504 2.0 Statistical Inference",
+      "folder": "06_STA_504_2.0_Statistical_Inference",
+      "lectures": [
+        {
+          "source": "Lecture 1.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 2.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 3.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 4.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 5.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 6.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 7.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 8.pdf",
+          "local_only": true
+        }
+      ],
+      "labs": [
+        {
+          "file": "Lab_01_Introduction_to_Statistical_Inference.ipynb",
+          "title": "Introduction to Statistical Inference"
+        },
+        {
+          "file": "Lab_02_Estimation_and_Confidence_Intervals.ipynb",
+          "title": "Estimation and Confidence Intervals"
+        },
+        {
+          "file": "Lab_03_Assumptions.ipynb",
+          "title": "Assumptions"
+        },
+        {
+          "file": "Lab_04_Maximum_Likelihood_Method_of_Moments_and_Estimator_Properties.ipynb",
+          "title": "Maximum Likelihood Method of Moments and Estimator Properties"
+        },
+        {
+          "file": "Lab_05_Pivotal_Quantities_and_Confidence_Intervals_for_Variance.ipynb",
+          "title": "Pivotal Quantities and Confidence Intervals for Variance"
+        }
+      ]
+    },
+    {
+      "title": "STA 507 1.0 Nonparametric Statistics",
+      "folder": "07_STA_507_1.0_Nonparametric_Statistics",
+      "lectures": [
+        {
+          "source": "Handout 1 2026.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Handout 2 2026.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Handout 3 2026.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Handout 4 2026.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Handout 5 2026.pdf",
+          "local_only": true
+        }
+      ],
+      "labs": [
+        {
+          "file": "Lab_01_Introduction_and_One_Sample_Tests.ipynb",
+          "title": "Introduction and One-Sample Tests"
+        },
+        {
+          "file": "Lab_02_Wilcoxon_Signed_Rank_Test_and_Sign_Test.ipynb",
+          "title": "Wilcoxon Signed-Rank Test and Sign Test"
+        },
+        {
+          "file": "Lab_03_One_Sample_Kolmogorov_Smirnov_Test.ipynb",
+          "title": "Kolmogorov–Smirnov Tests: One and Two Independent Samples"
+        },
+        {
+          "file": "Lab_04_Chi_Square_Goodness_of_Fit_Independence_and_Homogeneity.ipynb",
+          "title": "Chi-Square Tests and Fisher’s Exact Test"
+        },
+        {
+          "file": "Lab_05_Runs_Test_for_Randomness.ipynb",
+          "title": "Runs Tests: Randomness and Two-Sample Mixing"
+        },
+        {
+          "file": "Lab_06_Mann_Whitney_U_Test_for_Two_Independent_Samples.ipynb",
+          "title": "Mann–Whitney U Test for Two Independent Samples"
+        },
+        {
+          "file": "Lab_07_Mood_s_median_test_workshop.ipynb",
+          "title": "Mood’s Median Test"
+        }
+      ]
+    },
+    {
+      "title": "STA 509 2.0 Introduction to Design and Analysis of Experiments",
+      "folder": "08_STA_509_2.0_Introduction_to_Design_and_Analysis_of_Experiments",
+      "lectures": [
+        {
+          "source": "Lecture 02-Review Two Sample T Test and ANOVA.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 03-Completely Randomized Design.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Lecture 04-Randomized Complete Block Design.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Practice Questions Set 1.pdf",
+          "local_only": true
+        },
+        {
+          "source": "Rice Variety Example.pdf",
+          "local_only": true
+        },
+        {
+          "source": "STA 509 2.0 Introduction to Design and Analysis of Experiments.pdf",
+          "local_only": true
+        }
+      ],
+      "labs": [
+        {
+          "file": "Lab_01_Review_Two_Sample_t_Test_and_ANOVA.ipynb",
+          "title": "Review: Two-Sample t Test and ANOVA"
+        },
+        {
+          "file": "Lab_02_Experiment_vs_observation.ipynb",
+          "title": "Experiment vs observation"
+        },
+        {
+          "file": "Lab_03_Treatment_means_and_contrasts.ipynb",
+          "title": "Treatment means and contrasts"
+        },
+        {
+          "file": "Lab_04_Nuisance_factors.ipynb",
+          "title": "Nuisance factors"
+        }
+      ]
+    }
+  ],
+  "publication": {
+    "format": "One original theory-and-lab notebook per topic",
+    "original_pdfs": "Outside course project; ignored",
+    "copied_lecture_notebooks": "Removed from course project",
+    "lecture_screenshots": "Removed from course project",
+    "standalone_python_helpers": "Outside course project; ignored",
+    "published_topic_notebooks": 41
+  }
+}

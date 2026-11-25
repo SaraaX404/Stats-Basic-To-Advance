@@ -1,0 +1,9 @@
+{
+  "public_notebooks": 50,
+  "section_labs": 41,
+  "python_cells_syntax_checked": 117,
+  "new_worked_calculations_executed": 41,
+  "git_ignore_checks": 22,
+  "errors": [],
+  "original_simulation_execution": "Not performed: bundled runtime lacks scipy and matplotlib."
+}
